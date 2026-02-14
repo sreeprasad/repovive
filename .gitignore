@@ -1,0 +1,11 @@
+# Ignore everything
+*
+
+# Allow .cpp files
+!*.cpp
+
+# Allow README.md
+!README.md
+
+# Allow directories (needed for git to traverse into them)
+!*/
